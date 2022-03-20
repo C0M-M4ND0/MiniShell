@@ -19,6 +19,7 @@ Simply run it with :
 ```
 ./minishell
 ```
+##### Note : Don't forget to install the readline to Use this project
 ### Available options
 
 - Minishell runs executables from an absolute, relative or environment PATH (``/bin/ls`` or ``ls``), including arguments or options. ``'`` and ``"`` work the same as bash.
@@ -32,7 +33,6 @@ Simply run it with :
 - Some built-in functions : ``echo``, ``pwd``, ``cd``, ``env``, ``export``, ``unset`` and ``exit``.
 - ``&&`` and ``||`` with parenthesis .
 - The Wildcards ``*``  . 
-
 ### Credit
 This project is Done by  [elmouadel](https://github.com/elmouadel) and [Me](https://github.com/commando0404).
 
