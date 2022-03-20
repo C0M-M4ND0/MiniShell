@@ -38,7 +38,7 @@ This project is Done by  [elmouadel](https://github.com/elmouadel) and [Me](http
 
 - [elmouadel](https://github.com/elmouadel) he was responsible for the parsing, argument checking, execution, signal, redirection and piping.
 
-- I was responsiple for the environment variables and built-in functions .
+- I was responsible for the environment variables and built-in functions .
 
 ##### Don't forget to report to me the Errors in the project and also your suggestions about it .... to make it better 😉
  <a href="https://github.com/commando0404" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=Github&logoColor=white"/></a>
