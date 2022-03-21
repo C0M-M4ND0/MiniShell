@@ -6,7 +6,7 @@
 #    By: eabdelha <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/01/18 16:44:11 by eabdelha          #+#    #+#              #
-#    Updated: 2022/02/08 10:41:05 by eabdelha         ###   ########.fr        #
+#    Updated: 2022/03/21 10:07:19 by oabdelha         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -29,7 +29,7 @@ OBJECT_PATH = ./object_files/
 
 INCLUDE = minishell.h
 GNL_INCLUDE = $(GNL_PATH)get_next_line.h
-RL_INCLUDE = -I /goinfre/eabdelha/.brew/opt/readline/include
+RL_INCLUDE = -I /goinfre/$(USER)/.brew/opt/readline/include
 
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror
